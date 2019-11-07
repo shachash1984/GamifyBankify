@@ -1,0 +1,5 @@
+1. Presenting ScoreBoard player list (name + score)
+	1.1 Changing the DB to hold: GameIndex, PIN, and PlayerList (each player contains name and score)
+	1.2 every few seconds, load the updated list from the server and for each user in the list, instantiate a line in the table containing user namr and score
+2. Rewriting the UI Code to be more stable
+3. 

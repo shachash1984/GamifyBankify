@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06928150455d01b4b8d8984531614815, type: 3}
+  m_Name: BBQ
+  m_EditorClassIdentifier: 
+  Group: BBQ
+  GameType: 2
+  IsActive: 1
+  Members:
+  - {fileID: 11400000, guid: a6ffa735c8840284cb15fa8e9b018825, type: 2}
+  - {fileID: 11400000, guid: a72119653ce908d47b88e2e7288cbccd, type: 2}
+  - {fileID: 11400000, guid: c963e09eaabc2ac48aaccb5caf8fd8a7, type: 2}
+  TotalDebt: 187.73
